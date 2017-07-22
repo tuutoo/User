@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"BracketHighlighter",
+		"Codecs33",
+		"Color Highlighter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"GitGutter",
+		"MarkdownEditing",
+		"Package Control",
+		"SideBarEnhancements",
+		"Theme - Spacegray"
+	]
+}
